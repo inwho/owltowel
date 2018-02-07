@@ -1,3 +1,8 @@
-ssss
-Q
-:q
+Trimps Status Logs
+
+The log will go here:
+
+
+
+
+
